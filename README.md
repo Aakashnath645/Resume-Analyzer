@@ -1,3 +1,2 @@
 # Resume-Analyzer
-Analyzing Resumes with the help of ChatGPT API 
-Ai Resume Analyzer is a tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. And lastly show recommendations, predictions, analytics to the applicant based on keyword matching.
+Resume classifier is built using basic NLP techniques .It uses python regular-expression library for data cleaning. For creating features and classifications , Label-encoder and TF-IDF vectorization used. For appropriate labeling on a resume one vs rest classifier used.
